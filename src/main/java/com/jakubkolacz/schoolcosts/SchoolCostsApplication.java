@@ -1,13 +1,13 @@
-package com.honeybadgersoftware.template;
+package com.jakubkolacz.schoolcosts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TemplateApplication {
+public class SchoolCostsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TemplateApplication.class, args);
+		SpringApplication.run(SchoolCostsApplication.class, args);
 	}
 
 }
